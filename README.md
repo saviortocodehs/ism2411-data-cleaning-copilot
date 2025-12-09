@@ -10,3 +10,4 @@ A small Python project that cleans a messy sales dataset as part of ISM2411 assi
 
 ## Run
 From the project root:
+python src/data_cleaning.py
